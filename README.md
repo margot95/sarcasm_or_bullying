@@ -1,3 +1,5 @@
+I have written on article on Medium about the data preparation for that project! Check it out: https://medium.com/@berthelinmargot/eda-and-data-preparation-for-nlp-project-a-hands-on-example-step-by-step-3b95a37318db
+
 # sarcasm_or_bullying
 
 bullying or sarcasm ?
